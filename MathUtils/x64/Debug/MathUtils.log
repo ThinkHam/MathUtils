@@ -1,0 +1,3 @@
+﻿  MathUtils.cpp
+C:\Users\Adkins\Documents\Github\MathUtils\MathUtils\MathUtils.cpp(27,38): warning C4101: 'e': unreferenced local variable
+  MathUtils.vcxproj -> C:\Users\Adkins\Documents\Github\MathUtils\MathUtils\x64\Debug\MathUtils.lib
